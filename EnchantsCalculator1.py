@@ -28,5 +28,5 @@ elif TierBook == 6:
     print(round((TotalXP / 160)), "Upgrades needed to upgrade all the way to next level")
 
 else:
-    print("Tier provided is either non existed or tier 7 was specified. Tier 7 is currently unknown but will be updated when found.")
+    print("Tier provided is either non existed or XP value is unknown")
     
